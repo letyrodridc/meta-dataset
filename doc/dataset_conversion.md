@@ -180,7 +180,7 @@ more context.
     [`102flowers.tgz`](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
     and
     [`imagelabels.mat`](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/imagelabels.mat)
-2.  Extract `102flowers.tgz`, it will create a `jpg/` sub-directory
+2.  Extract `102flowers.tgz` in vgg_flower directory, it will create a `jpg/` sub-directory
 3.  Launch the conversion script:
 
     ```bash
